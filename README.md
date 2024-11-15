@@ -2,7 +2,7 @@
 
 A beautiful and responsive weather application built with Vue 3, TypeScript, and Vite. Features real-time weather data, dark/light theme support, and smooth animations.
 
-![Weather App Demo](https://weathervite.netlify.app/)
+[Weather App Demo](https://weathervite.netlify.app/)
 
 ## ✨ Features
 
